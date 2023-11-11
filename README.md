@@ -15,8 +15,6 @@ In autonomous robotics, the ability to follow a predetermined path with accuracy
 ---------------------------------------------
 
 ## Advantages of Pure Pursuit:
-The project is designed to demonstrate a reinforcement learning (RL) scenario where an AI agent is tasked with balancing a ball on a slab. The agent receives a small positive reward incrementally for each time step that the ball stays on the slab, encouraging the agent to learn strategies for maintaining balance. Conversely, a negative reward is given when the ball falls off, which helps the agent to learn from its mistakes and avoid actions leading to such an outcome. The control mechanism allows the slab to be rotated along two axes, which adds complexity to the task and requires the agent to develop a nuanced understanding of the physics involved.
-
     • Simplicity: Pure Pursuit is straight forward to understand and implement.
     • Reactivity: It's a reactive algorithm that can adjust to changes in the robot's position.
     • Smoothness: It results in smooth paths due to the circular arc-based steering, which is important for applications where jerk or sudden changes.
