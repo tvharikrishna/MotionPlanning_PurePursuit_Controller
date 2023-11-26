@@ -1,4 +1,9 @@
-# Pure Pursuit Path Tracking with BST Waypoint Navigation
+<div align="center">
+  <h1>Pure Pursuit Path Tracking with BST Waypoint Navigation</h1>
+</div>
+
+<br>
+
 <p align="center">
   <img src="data/0.png" alt="Project Logo Cover" width="1500"/>
 </p>
