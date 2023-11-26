@@ -68,7 +68,7 @@ By employing a Binary Tree search algorithm for waypoint navigation, I achieved 
 ## My Project Video Demonstration:
 <p align="center">
   <a href="https://www.linkedin.com/feed/update/urn:li:activity:7123386910160420864?utm_source=share&utm_medium=member_desktop">
-    <img src="https://img.shields.io/badge/Video-Pure Pursuit Algorithm w/ ROS in Action-blue" alt="Video"/>
+    <img src="https://img.shields.io/badge/Video - Pure Pursuit Algorithm w/ ROS in Action -blue" alt="Video"/>
   </a>
 </p>
 
