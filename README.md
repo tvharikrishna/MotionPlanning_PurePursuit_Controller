@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Pure Pursuit Path Tracking with BST Waypoint Navigation</h1>
+  <h1>Pure Pursuit Waypoint Navigation w/ ROS Mobile Robot</h1>
 </div>
 
 <br>
