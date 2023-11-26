@@ -10,7 +10,7 @@
 
 ---------------------------------------------
 
-## About this Project:
+## ★ About this Project:
 A Pure Pursuit Controller is a Path Tracking Algorithm often used in robotics and autonomous vehicles for following a predefined path autonomously.
 In autonomous robotics, the ability to follow a predetermined path with accuracy and adaptability is critical. Applications range from industrial robots following lines on a factory floor, drones navigating through an environment, or autonomous cars driving on a road. The Pure Pursuit algorithm's effectiveness has been proven in various fields, including agricultural automation, where vehicles must follow precise paths for tasks like planting or harvesting.
 <p align="center">
@@ -19,7 +19,7 @@ In autonomous robotics, the ability to follow a predetermined path with accuracy
 
 ---------------------------------------------
 
-## Advantages of Pure Pursuit:
+## ★ Advantages of Pure Pursuit:
     • Simplicity: Pure Pursuit is straight forward to understand and implement.
     • Reactivity: It's a reactive algorithm that can adjust to changes in the robot's position.
     • Smoothness: It results in smooth paths due to the circular arc-based steering, which is important for applications where jerk or sudden changes.
@@ -28,7 +28,7 @@ In autonomous robotics, the ability to follow a predetermined path with accuracy
     
 ---------------------------------------------
 
-## Working of Pure Pursuit Algorithm:
+## ★ Working of Pure Pursuit Algorithm:
 <p align="center">
   <img src="data/1.png" alt="Project Logo Cover" width="1500"/>
 </p>
@@ -65,12 +65,12 @@ In autonomous robotics, the ability to follow a predetermined path with accuracy
 
 ---------------------------------------------
 
-## Testing and Results:
+## ★ Testing and Results:
 By employing a Binary Tree search algorithm for waypoint navigation, I achieved over 98% accuracy in my path tracking tests conducted in ROS. Below is a link where you can view a video demonstrating how precisely the controller follows the designated path.
 
 ---------------------------------------------
 
-## My Project Video Demonstration:
+## ★ My Project Video Demonstration:
 <p align="center">
   <a href="https://www.linkedin.com/feed/update/urn:li:activity:7123386910160420864?utm_source=share&utm_medium=member_desktop">
     <img src="https://img.shields.io/badge/Video - Pure Pursuit Algorithm w/ ROS in Action -blue" alt="Video"/>
